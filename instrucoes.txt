@@ -1,1 +1,1 @@
-Um desafio Git para testar habilidades!
+Segunda parte do desafio! Trabalhando com Branchs: criação de branch, mudança para apontar para a nova branch, realizar o commit e o push.
