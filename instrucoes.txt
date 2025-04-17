@@ -1,1 +1,2 @@
 Segunda parte do desafio! Trabalhando com Branchs: criação de branch, mudança para apontar para a nova branch, realizar o commit e o push.
+Adicionando novas informações para realizar outro merge com a main!!
